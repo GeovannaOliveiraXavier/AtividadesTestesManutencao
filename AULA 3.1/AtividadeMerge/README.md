@@ -1,8 +1,8 @@
 # Projeto de Teste
 
-## Orientações
+## Orientações Gerais
 
-* Clone o repositório.
-* Abra o projeto.
-* Execute os arquivos.
+As orientações deste projeto devem ser inseridas nesta seção.
 
+- Clone o projeto.
+- Execute os arquivos.
