@@ -9,3 +9,5 @@
 | Aula 4.2 | Resolução das atividades da Aula 4.2 | 5 | Todas as atividades propostas foram realizadas (100%). | 29/07/2026 | [https://github.com/GeovannaOliveiraXavier/AtividadesTestesManutencao/tree/main/AULA%204.2](https://github.com/GeovannaOliveiraXavier/AtividadesTestesManutencao/tree/master/AULA%204.2) |
 | Aula 05 | Resolução das atividades da Aula 05 | 5 | Todas as atividades propostas foram realizadas (100%). | 29/07/2026 | [https://github.com/GeovannaOliveiraXavier/AtividadesTestesManutencao/tree/main/AULA%2005](https://github.com/GeovannaOliveiraXavier/AtividadesTestesManutencao/tree/master/AULA%2005) |
 | Aula 6.1 | Resolução das atividades da Aula 6.1 | 1 | Aproximadamente 10% das atividades propostas foram realizadas. | 29/07/2026 | [https://github.com/GeovannaOliveiraXavier/AtividadesTestesManutencao/tree/main/AULA%206.1](https://github.com/GeovannaOliveiraXavier/AtividadesTestesManutencao/tree/master/AULA%206.1/calculadora-teste) |
+
+LINK DO VÍDEO : https://youtu.be/NAyCfPYIFM0
